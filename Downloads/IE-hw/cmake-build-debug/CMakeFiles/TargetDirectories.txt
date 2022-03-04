@@ -1,0 +1,9 @@
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/install/local.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/install/strip.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/install.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/clean-all.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/list_install_components.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/hw.dir
+/Users/golnarseifi/Developer/CLionProjects/IE-hw/cmake-build-debug/CMakeFiles/IE-hw.dir
